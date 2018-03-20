@@ -1,0 +1,48 @@
+			.bottom-right {
+			    position: absolute;
+			    top: 120px;
+			    left: 900px;
+			    color: black;
+			    font: helvetica;
+			    font-size: 150%;
+			}
+			.top-left {
+			    position: absolute;
+			    top: 20px;
+			    left: 20px;
+			   
+			}
+			.top-right {
+			    position: absolute;
+			    top: 20px;
+			    right: 20px;
+			   
+			}
+			.containreg{
+				display: block;
+    			margin: 120px auto;
+				background-color: #F8F8F8;
+				padding:10px;
+				align-self: center;
+				width: 25%;
+			}
+			.containreg1{
+				display: block;
+    			margin: 200px auto;
+				padding:10px;
+				align-self: center;
+			}
+			.box{
+				padding: 5px;
+				margin: 7px;
+			}
+			.boxa{
+				padding: 5px;
+				margin: 7px;
+				height: 150px;
+				width: 300px;
+			}
+			.img{
+				position: relative;
+			}
+			
